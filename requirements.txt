@@ -1,0 +1,12 @@
+langchain
+langchain-ollama
+langchain-core
+
+python-dotenv
+
+SpeechRecognition
+pyttsx3
+pyaudio
+
+pytz
+requests
